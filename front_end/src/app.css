@@ -1,0 +1,80 @@
+body {
+    background-color: rgb(238, 238, 222);
+    text-align: center;
+}
+.App {
+    text-align: center;
+}
+.line {
+    width: 50%;
+}
+.header {
+    color: rgb(199, 10, 10);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.kategorien_Filter button{
+    padding: 20px 55px;
+    border: none;
+    border: 1px solid black;
+    margin: 5px;
+}
+.alles{
+    background-color: rgb(118, 235, 2);    
+}
+.burger{
+    background-color: rgb(2, 227, 235);    
+}
+.pezza{
+    background-color: rgb(235, 2, 216);    
+}
+.asiatisch{
+    background-color: rgb(22, 235, 2);    
+}
+.hausmannskost {
+    background-color: yellow;
+}
+.sonstiges {
+    background-color: blue;
+}
+.entfernung button{
+    padding: 20px 55px;
+    border: none;
+    border: 1px solid black;
+    margin: 5px;
+}
+.egal {
+    background-color: blue;
+}
+.weit {
+    background-color: red;
+}
+.nah {
+    background-color: rgb(255, 169, 10);
+}
+.preis button {
+    padding: 20px 55px;
+    border: none;
+    border: 1px solid black;
+    margin: 5px;
+}
+.egale {
+    background-color: orchid;
+}
+.viel {
+    background-color: aqua;
+}
+.ende {
+    background-color: darkolivegreen;
+}
+.ergebniss button{
+    padding: 20px 55px;
+    border: none;
+    border: 1px solid black;
+    margin: 5px;
+}
+.reset {
+    background-color: deeppink;
+}
+.random {
+    background-color: rgb(220, 235, 2);
+}
